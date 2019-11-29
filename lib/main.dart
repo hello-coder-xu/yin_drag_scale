@@ -30,9 +30,7 @@ class MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: Text('图片显示'),
-        ),
+        appBar: AppBar(title: Text('图片显示')),
         body: Swiper(
           itemBuilder: itemView,
           itemCount: path.length,
