@@ -1,6 +1,6 @@
 name: yin_drag_sacle
 description: Image zooming in, zooming out, dragging, you can customize the zoom scale, the project is from flutter_drag_scale, the modification is published to meet their own project
-version: 0.0.1
+version: 0.0.2
 author: yin <yin_8023@163.com>
 homepage: https://github.com/yx544806988/yin_drag_scale.git
 
