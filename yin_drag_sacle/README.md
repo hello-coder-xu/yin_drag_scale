@@ -2,6 +2,8 @@
 
 Image zooming in, zooming out, dragging, you can customize the zoom scale, the project is from flutter_drag_scale, the modification is published to meet their own project
 
+图片缩放，缩放，拖动，可以自定义缩放比例，该项目是来自flutter_drag_scale，修改后发布，以满足自己的项目
+
 ## Getting Started
 
 - amplification
@@ -10,8 +12,14 @@ Image zooming in, zooming out, dragging, you can customize the zoom scale, the p
 - to reduce the
 - drag
 
+- 放大
+    - 手势放大
+    - 双击放大
+- 缩小
+- 拖动
 
-It can be used with Swiper
+
+它可以配合轮播使用
 
 
 ```
